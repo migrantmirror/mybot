@@ -10,7 +10,7 @@ import asyncio
 BOT_TOKEN = "7956098574:AAFgQa4Z95yWXuHxhETsDWm_v1hs2qWCaeQ"
 
 # Replace this with your actual Telegram user chat ID (you'll get it by sending /id)
-YOUR_CHAT_ID = 123456789  # Update after running /id
+YOUR_CHAT_ID = 5687470704  # Update after running /id
 
 # Start command
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
